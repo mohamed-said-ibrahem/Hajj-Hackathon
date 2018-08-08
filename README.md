@@ -14,4 +14,6 @@ Implement image recognition API (Paid service not written by us for now) to retr
 we learned how to manage the project in very short time and how to make minimal demo with the most important features
 # What's next for Nabd?
 Adding a lot of important ideas and features which will make the KSA on of the leaders in the world who can handle huge number of persons healthcare in the same time by using the latest technologies.
+# Screenshots
+
 
