@@ -1,4 +1,4 @@
-# nabd
+# Nabd
 An integrated medical system to increase the absorptive capacity of pilgrims health care in Hajj.
 # Inspiration
 We inspired the idea from the huge number of death every year and the need of making the health care process more easy and fast.
